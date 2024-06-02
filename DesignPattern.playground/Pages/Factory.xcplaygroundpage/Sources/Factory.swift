@@ -1,5 +1,11 @@
 import Foundation
 
+// Object creation logic is too convoluted
+// init is not that descriptive -name mandate to be init, can overload with same sets of arguments with diff names
+// obj creation can be outsourced to a seperate func static factory class (seperation of concern)
+// can create hierarchy
+// A component responsible solely for the wholesale creation of obj
+
 public class Point : CustomStringConvertible
 {
     var x, y: Double

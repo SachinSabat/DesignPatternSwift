@@ -1,6 +1,10 @@
 import Foundation
-
 import XCTest
+
+// A factory method is a static method to create obj
+// a factory can take care of obj creation
+// a factory can be external or reside inside the obj as an inner class
+// hierarchies of factories can be used to create related obj
 
 public class Person
 {
