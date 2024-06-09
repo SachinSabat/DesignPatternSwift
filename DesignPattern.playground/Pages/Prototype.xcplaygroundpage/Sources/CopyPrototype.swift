@@ -1,5 +1,11 @@
 import Foundation
 
+/// A partially or fully init obj that we can copy/ clone make use of
+/// Complicated obj car arent desinged from sctracth they reuse the prev design
+/// An existing desing is the prototype
+/// We make a cpoy/ clone prototype and and customise it
+/// We make cloning convinient (eg. via factory)
+
 public protocol CopyingEx
 {
     // the 'required' keyword is only used in classes
