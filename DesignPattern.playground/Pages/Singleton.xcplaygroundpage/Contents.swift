@@ -3,6 +3,6 @@
 import Foundation
 
 print(SingletonExerciseMain())
-print(SingletonMain())
+//print(SingletonMain())
 
 //: [Next](@next)

@@ -2,6 +2,8 @@
 
 import Foundation
 
-var greeting = "Hello, playground"
+//print(NoCachingMain())
+print(CachingMain())
+print(ExerciseMain())
 
 //: [Next](@next)
