@@ -7,5 +7,6 @@
         <page name='Prototype'/>
         <page name='Singleton'/>
         <page name='Adapter'/>
+        <page name='Bridge'/>
     </pages>
 </playground>
